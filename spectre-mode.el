@@ -10,6 +10,8 @@
 
 ;; Copyright (C) 2002-2003 Wouter De Cock & Geert A. M. Van der Plas
 
+;; License: GPL
+
 ;; *insert GPL here*
 
 ;; INSTALL:
